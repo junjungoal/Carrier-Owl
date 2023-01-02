@@ -3,9 +3,15 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        robot: 3
+        manipulation: 3
+        reinforcement learning: 3
+        RL: 3
+        skill acquisition: 3
+        object-centric: 3
+        imitation learning: 3
+        IL: 3
+        world model: 3
 
 # 通知の閾値
 score_threshold: 0
